@@ -1,0 +1,17 @@
+﻿  Shader.cpp
+E:\Dev\OpenGL\OpenGL\src\Shader.h(9,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  IndexBuffer.cpp
+E:\Dev\OpenGL\OpenGL\src\IndexBuffer.h(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Renderer.cpp
+E:\Dev\OpenGL\OpenGL\src\VertexArray.h(3,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  Application.cpp
+E:\Dev\OpenGL\OpenGL\src\Application.cpp(6,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  glm.cpp
+E:\Dev\OpenGL\OpenGL\src\vendor\glm\detail\glm.cpp(7,10): fatal error C1083: Cannot open include file: 'glm/gtx/dual_quaternion.hpp': No such file or directory
+  VertexArray.cpp
+E:\Dev\OpenGL\OpenGL\src\VertexArray.h(3,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  VertexBuffer.cpp
+E:\Dev\OpenGL\OpenGL\src\GraphicsBuffer.h(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Texture.cpp
+E:\Dev\OpenGL\OpenGL\src\Texture.h(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
